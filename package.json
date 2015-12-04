@@ -1,0 +1,14 @@
+{
+  "name": "show-of-hands",
+  "version": "0.0.0",
+  "description": "An electron app to quickly poll an audience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viscid",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^0.4.1"
+  }
+}
